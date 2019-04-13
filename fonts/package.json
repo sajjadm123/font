@@ -2,9 +2,13 @@
   "name": "@my-mousavi123/fonts",
   "version": "1.0.0",
   "description": "hi",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "test"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/sajjadm123/font.git"
   },
   "author": "sajjad",
   "license": "ISC"
